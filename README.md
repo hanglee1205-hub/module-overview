@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-    <img src="product_demo.gif"  width="560" />
+    <img src="product_demo.gif"  width="777" />
   </kbd>
 </p>
 
